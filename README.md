@@ -4,7 +4,7 @@
 
 # Reg No:212223220120
 
-# Date: 20-09-2025
+# Date: 16-09-2025
 
 # AIM:
 To write a lex program to implement lexical analyzer to recognize a few patterns.
